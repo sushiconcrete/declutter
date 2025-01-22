@@ -129,13 +129,6 @@ Kokoro-82M/
 ### Environment Variables
 We use a .env file for storing sensitive information such as API keys. This file is not tracked by Git for security reasons, following industry best practices for handling credentials. Create a .env file and include your API keys following the format shown in the Installation section.
 
-### Application Settings
-Edit config.json to customize:
-- Voice selection
-- Audio parameters
-- News sources
-- Summary length
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
